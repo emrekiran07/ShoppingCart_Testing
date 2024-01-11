@@ -1,0 +1,771 @@
+[
+  {
+    "username": "Ramanathan",
+    "password": "Notaproblem23*",
+    "wallet": 100,
+    "address": "456 Oak St, Townsville",
+    "phone_number": "555-1234",
+    "email": "ramanathan@example.com",
+    "credit_cards": [
+      {
+        "card_number": "9876-5432-1098-7654",
+        "expiry_date": "05/23",
+        "name_on_card": "Ramanathan",
+        "cvv": "456"
+      }
+    ],
+    "email_address": "ramanathan@example.com"
+  },
+  {
+    "username": "Samantha",
+    "password": "SecurePass123/^",
+    "wallet": 150,
+    "address": "134 Main St, Cityville",
+    "phone_number": "134-1234",
+    "email": "samantha@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-8746-9865-2987",
+        "expiry_date": "12/24",
+        "name_on_card": "Samantha",
+        "cvv": "134"
+      }
+    ]
+  },
+  {
+    "username": "Maximus",
+    "password": "StrongPwd!23",
+    "wallet": 75,
+    "address": "124 Main St, Cityville",
+    "phone_number": "124-1234",
+    "email": "maximus@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-7654-2367-6734",
+        "expiry_date": "10/25",
+        "name_on_card": "Maximus",
+        "cvv": "124"
+      }
+    ]
+  },
+  {
+    "username": "Aria",
+    "password": "SecretPas!21sphrase",
+    "wallet": 200,
+    "address": "125 Main St, Cityville",
+    "phone_number": "125-1234",
+    "email": "aria@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-7895-2345-5835",
+        "expiry_date": "09/25",
+        "name_on_card": "Aria",
+        "cvv": "125"
+      }
+    ]
+  },
+  {
+    "username": "Phoenix",
+    "password": "Firebir&^d987",
+    "wallet": 120,
+    "address": "126 Main St, Cityville",
+    "phone_number": "126-1234",
+    "email": "phoenix@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-3895-3590-2384",
+        "expiry_date": "08/25",
+        "name_on_card": "Phoenix",
+        "cvv": "126"
+      }
+    ]
+  },
+  {
+    "username": "Luna",
+    "password": "Moonlight#456",
+    "wallet": 90,
+    "address": "127 Main St, Cityville",
+    "phone_number": "127-1234",
+    "email": "luna@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-3820-5423-7890",
+        "expiry_date": "06/25",
+        "name_on_card": "Luna",
+        "cvv": "127"
+      }
+    ]
+  },
+  {
+    "username": "Rover",
+    "password": "Dog12@34",
+    "wallet": 50,
+    "address": "128 Main St, Cityville",
+    "phone_number": "128-1234",
+    "email": "rover@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-3689-3478-8369",
+        "expiry_date": "05/25",
+        "name_on_card": "Rover",
+        "cvv": "128"
+      }
+    ]
+  },
+  {
+    "username": "Felix",
+    "password": "Whisk&ers789",
+    "wallet": 80,
+    "address": "129 Main St, Cityville",
+    "phone_number": "129-1234",
+    "email": "felix@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-3728-3458-9679",
+        "expiry_date": "04/25",
+        "name_on_card": "Felix",
+        "cvv": "129"
+      }
+    ]
+  },
+  {
+    "username": "Zara",
+    "password": "Rai#nbow2022",
+    "wallet": 110,
+    "address": "120 Main St, Cityville",
+    "phone_number": "120-1234",
+    "email": "zara@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-9520-2346-4235",
+        "expiry_date": "03/25",
+        "name_on_card": "Zara",
+        "cvv": "120"
+      }
+    ]
+  },
+  {
+    "username": "Tiger",
+    "password": "Stripes5^67",
+    "wallet": 130,
+    "address": "121 Main St, Cityville",
+    "phone_number": "121-1234",
+    "email": "tiger@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-5836-8245-6831",
+        "expiry_date": "02/25",
+        "name_on_card": "Tiger",
+        "cvv": "121"
+      }
+    ]
+  },
+  {
+    "username": "Jasmine",
+    "password": "FlowerP!ower",
+    "wallet": 95,
+    "address": "122 Main St, Cityville",
+    "phone_number": "122-1234",
+    "email": "jasmine@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1234-8934-5684-8927",
+        "expiry_date": "05/24",
+        "name_on_card": "Jasmine",
+        "cvv": "122"
+      }
+    ]
+  },
+  {
+    "username": "Maverick",
+    "password": "TopGun4*56",
+    "wallet": 70,
+    "address": "134 Main St, Cityville",
+    "phone_number": "134-1234",
+    "email": "maverick@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3456-5832-6843-4637",
+        "expiry_date": "02/24",
+        "name_on_card": "Maverick",
+        "cvv": "134"
+      }
+    ]
+  },
+  {
+    "username": "Ivy",
+    "password": "Gree#nLeaf789",
+    "wallet": 115,
+    "address": "356 Main St, Cityville",
+    "phone_number": "356-1234",
+    "email": "ivy@example.com",
+    "credit_cards": [
+      {
+        "card_number": "4237-5426-45802-6892",
+        "expiry_date": "07/24",
+        "name_on_card": "Ivy",
+        "cvv": "356"
+      }
+    ]
+  },
+  {
+    "username": "Zorro",
+    "password": "SwordMast123*er",
+    "wallet": 180,
+    "address": "578 Main St, Cityville",
+    "phone_number": "578-1234",
+    "email": "zorro@example.com",
+    "credit_cards": [
+      {
+        "card_number": "2436-8426-8453-3546",
+        "expiry_date": "04/25",
+        "name_on_card": "Zorro",
+        "cvv": "578"
+      }
+    ]
+  },
+  {
+    "username": "Oliver",
+    "password": "Oliver*123",
+    "wallet": 60,
+    "address": "567 Main St, Cityville",
+    "phone_number": "567-1234",
+    "email": "oliver@example.com",
+    "credit_cards": [
+      {
+        "card_number": "4265-5324-1325-4212",
+        "expiry_date": "05/25",
+        "name_on_card": "Oliver",
+        "cvv": "567"
+      }
+    ]
+  },
+  {
+    "username": "Bella",
+    "password": "Dazzl^ing321",
+    "wallet": 85,
+    "address": "458 Main St, Cityville",
+    "phone_number": "458-1234",
+    "email": "bella@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3984-4357-8532-2347",
+        "expiry_date": "09/25",
+        "name_on_card": "Bella",
+        "cvv": "458"
+      }
+    ]
+  },
+  {
+    "username": "Leo",
+    "password": "Li$onHearted",
+    "wallet": 140,
+    "address": "938 Main St, Cityville",
+    "phone_number": "938-1234",
+    "email": "leo@example.com",
+    "credit_cards": [
+      {
+        "card_number": "7258-4582-6387-2324",
+        "expiry_date": "11/25",
+        "name_on_card": "Leo",
+        "cvv": "938"
+      }
+    ]
+  },
+  {
+    "username": "Athena",
+    "password": "Wis@eOwl567",
+    "wallet": 100,
+    "address": "353 Main St, Cityville",
+    "phone_number": "353-1234",
+    "email": "athena@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3904-1247-6547-4673",
+        "expiry_date": "12/25",
+        "name_on_card": "Athena",
+        "cvv": "353"
+      }
+    ]
+  },
+  {
+    "username": "Atlas",
+    "password": "World*631Traveler",
+    "wallet": 160,
+    "address": "897 Main St, Cityville",
+    "phone_number": "897-1234",
+    "email": "atlas@example.com",
+    "credit_cards": [
+      {
+        "card_number": "4537-4587-2354-5346",
+        "expiry_date": "10/24",
+        "name_on_card": "Atlas",
+        "cvv": "897"
+      }
+    ]
+  },
+  {
+    "username": "Cleo",
+    "password": "QueenC%at789",
+    "wallet": 75,
+    "address": "897 Main St, Cityville",
+    "phone_number": "897-1234",
+    "email": "cleo@example.com",
+    "credit_cards": [
+      {
+        "card_number": "4537-4587-2354-5346",
+        "expiry_date": "10/24",
+        "name_on_card": "Cleo",
+        "cvv": "897"
+      }
+    ]
+  },
+  {
+    "username": "Rocket",
+    "password": "SpaceEx#465plorer",
+    "wallet": 110,
+    "address": "983 Main St, Cityville",
+    "phone_number": "983-1234",
+    "email": "rocket@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3468-2354-4748-2436",
+        "expiry_date": "05/25",
+        "name_on_card": "Rocket",
+        "cvv": "983"
+      }
+    ]
+  },
+  {
+    "username": "Hazel",
+    "password": "Brown$Eyes123",
+    "wallet": 130,
+    "address": "892 Main St, Cityville",
+    "phone_number": "892-1234",
+    "email": "hazel@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3572-3485-1434-1452",
+        "expiry_date": "02/25",
+        "name_on_card": "Hazel",
+        "cvv": "892"
+      }
+    ]
+  },
+  {
+    "username": "Sammy",
+    "password": "Happ@@yPuppy456",
+    "wallet": 90,
+    "address": "429 Main St, Cityville",
+    "phone_number": "429-1234",
+    "email": "sammy@example.com",
+    "credit_cards": [
+      {
+        "card_number": "2349-5232-3251-2742",
+        "expiry_date": "10/25",
+        "name_on_card": "Sammy",
+        "cvv": "429"
+      }
+    ]
+  },
+  {
+    "username": "Lola",
+    "password": "Danci*ngQueen",
+    "wallet": 70,
+    "address": "566 Main St, Cityville",
+    "phone_number": "566-1234",
+    "email": "lola@example.com",
+    "credit_cards": [
+      {
+        "card_number": "4021-2346-2672-3892",
+        "expiry_date": "11/24",
+        "name_on_card": "Lola",
+        "cvv": "566"
+      }
+    ]
+  },
+  {
+    "username": "Oscar",
+    "password": "Fish#$y123",
+    "wallet": 120,
+    "address": "456 Main St, Cityville",
+    "phone_number": "456-1234",
+    "email": "oscar@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3493-4521-4367-2346",
+        "expiry_date": "07/25",
+        "name_on_card": "Oscar",
+        "cvv": "456"
+      }
+    ]
+  },
+  {
+    "username": "Mia",
+    "password": "Princes!@#s456",
+    "wallet": 80,
+    "address": "923 Main St, Cityville",
+    "phone_number": "923-1234",
+    "email": "mia@example.com",
+    "credit_cards": [
+      {
+        "card_number": "2349-5429-4332-2347",
+        "expiry_date": "03/25",
+        "name_on_card": "Mia",
+        "cvv": "923"
+      }
+    ]
+  },
+  {
+    "username": "Zeus",
+    "password": "Thun4123^derGod",
+    "wallet": 150,
+    "address": "384 Main St, Cityville",
+    "phone_number": "384-1234",
+    "email": "zeus@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3246-7458-2347-8247",
+        "expiry_date": "02/24",
+        "name_on_card": "Zeus",
+        "cvv": "384"
+      }
+    ]
+  },
+  {
+    "username": "Coco",
+    "password": "Chocolate%&789",
+    "wallet": 95,
+    "address": "485 Main St, Cityville",
+    "phone_number": "485-1234",
+    "email": "coco@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3284-1423-2342-3249",
+        "expiry_date": "05/25",
+        "name_on_card": "Coco",
+        "cvv": "485"
+      }
+    ]
+  },
+  {
+    "username": "Duke",
+    "password": "Royal][Pup123",
+    "wallet": 110,
+    "address": "395 Main St, Cityville",
+    "phone_number": "395-1234",
+    "email": "duke@example.com",
+    "credit_cards": [
+      {
+        "card_number": "2345-3679-8864-4456",
+        "expiry_date": "05/24",
+        "name_on_card": "Duke",
+        "cvv": "395"
+      }
+    ]
+  },
+  {
+    "username": "Lily",
+    "password": "Bloom.,ing456",
+    "wallet": 100,
+    "address": "357 Main St, Cityville",
+    "phone_number": "357-1234",
+    "email": "lily@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3954-5567-2345-6532",
+        "expiry_date": "01/24",
+        "name_on_card": "Lily",
+        "cvv": "357"
+      }
+    ]
+  },
+  {
+    "username": "Rocky",
+    "password": "Mountain43*123",
+    "wallet": 120,
+    "address": "993 Main St, Cityville",
+    "phone_number": "993-1234",
+    "email": "rocky@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3934-5562-1153-3243",
+        "expiry_date": "11/25",
+        "name_on_card": "Rocky",
+        "cvv": "993"
+      }
+    ]
+  },
+  {
+    "username": "Daisy",
+    "password": "Sunflo%$wer789",
+    "wallet": 80,
+    "address": "838 Main St, Cityville",
+    "phone_number": "838-1234",
+    "email": "daisy@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3253-3456-2343-2346",
+        "expiry_date": "11/25",
+        "name_on_card": "Daisy",
+        "cvv": "838"
+      }
+    ]
+  },
+  {
+    "username": "Simba",
+    "password": "LionKing@^456",
+    "wallet": 140,
+    "address": "234 Main St, Cityville",
+    "phone_number": "234-1234",
+    "email": "simba@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3480-5679-2034-4505",
+        "expiry_date": "04/25",
+        "name_on_card": "Simba",
+        "cvv": "234"
+      }
+    ]
+  },
+  {
+    "username": "Sasha",
+    "password": "FierceCa%&t789",
+    "wallet": 75,
+    "address": "234 Main St, Cityville",
+    "phone_number": "234-1234",
+    "email": "sasha@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8948-4524-9383-9283",
+        "expiry_date": "10/25",
+        "name_on_card": "Sasha",
+        "cvv": "234"
+      }
+    ]
+  },
+  {
+    "username": "Hunter",
+    "password": "Arrow1@#@23",
+    "wallet": 90,
+    "address": "803 Main St, Cityville",
+    "phone_number": "803-1234",
+    "email": "hunter@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8003-2342-5385-8835",
+        "expiry_date": "12/25",
+        "name_on_card": "Hunter",
+        "cvv": "803"
+      }
+    ]
+  },
+  {
+    "username": "Misty",
+    "password": "Fogg$#y456",
+    "wallet": 110,
+    "address": "901 Main St, Cityville",
+    "phone_number": "901-1234",
+    "email": "misty@example.com",
+    "credit_cards": [
+      {
+        "card_number": "9012-4357-9684-2348",
+        "expiry_date": "10/24",
+        "name_on_card": "Misty",
+        "cvv": "901"
+      }
+    ]
+  },
+  {
+    "username": "Rusty",
+    "password": "Old!@Key123",
+    "wallet": 60,
+    "address": "590 Main St, Cityville",
+    "phone_number": "590-1234",
+    "email": "rusty@example.com",
+    "credit_cards": [
+      {
+        "card_number": "2389-3458-8790-2348",
+        "expiry_date": "05/25",
+        "name_on_card": "Rusty",
+        "cvv": "590"
+      }
+    ]
+  },
+  {
+    "username": "Nala",
+    "password": "Lione&$ss456",
+    "wallet": 130,
+    "address": "801 Main St, Cityville",
+    "phone_number": "801-1234",
+    "email": "nala@example.com",
+    "credit_cards": [
+      {
+        "card_number": "1902-3412-4358-8453",
+        "expiry_date": "07/24",
+        "name_on_card": "Nala",
+        "cvv": "801"
+      }
+    ]
+  },
+  {
+    "username": "Charlie",
+    "password": "Cha#$rming123",
+    "wallet": 100,
+    "address": "690 Main St, Cityville",
+    "phone_number": "690-1234",
+    "email": "charlie@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8012-4534-4526-7990",
+        "expiry_date": "04/24",
+        "name_on_card": "Charlie",
+        "cvv": "690"
+      }
+    ]
+  },
+  {
+    "username": "Whiskers",
+    "password": "CuriousCat7*^89",
+    "wallet": 85,
+    "address": "701 Main St, Cityville",
+    "phone_number": "701-1234",
+    "email": "whiskers@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8790-2358-7989-3458",
+        "expiry_date": "01/25",
+        "name_on_card": "Whiskers",
+        "cvv": "701"
+      }
+    ]
+  },
+  {
+    "username": "Buddy",
+    "password": "BestF#$%riend123",
+    "wallet": 95,
+    "address": "802 Main St, Cityville",
+    "phone_number": "802-1234",
+    "email": "buddy@example.com",
+    "credit_cards": [
+      {
+        "card_number": "9034-4259-8973-7789",
+        "expiry_date": "02/25",
+        "name_on_card": "Buddy",
+        "cvv": "802"
+      }
+    ]
+  },
+  {
+    "username": "Sunny",
+    "password": "BrightDa%#$y456",
+    "wallet": 120,
+    "address": "706 Main St, Cityville",
+    "phone_number": "706-1234",
+    "email": "sunny@example.com",
+    "credit_cards": [
+      {
+        "card_number": "7890-3408-3479-3426",
+        "expiry_date": "07/25",
+        "name_on_card": "Sunny",
+        "cvv": "706"
+      }
+    ]
+  },
+  {
+    "username": "Milo",
+    "password": "Cool#$%Cat123",
+    "wallet": 110,
+    "address": "780 Main St, Cityville",
+    "phone_number": "780-1234",
+    "email": "milo@example.com",
+    "credit_cards": [
+      {
+        "card_number": "3423-4357-8005-4358",
+        "expiry_date": "01/24",
+        "name_on_card": "Milo",
+        "cvv": "780"
+      }
+    ]
+  },
+  {
+    "username": "Ziggy",
+    "password": "Zigza!&#g789",
+    "wallet": 70,
+    "address": "790 Main St, Cityville",
+    "phone_number": "790-1234",
+    "email": "ziggy@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8903-9031-5478-7890",
+        "expiry_date": "11/24",
+        "name_on_card": "Ziggy",
+        "cvv": "790"
+      }
+    ]
+  },
+  {
+    "username": "Riley",
+    "password": "HappyD&^$%og123",
+    "wallet": 130,
+    "address": "668 Main St, Cityville",
+    "phone_number": "668-1234",
+    "email": "riley@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8023-1297-3592-4728",
+        "expiry_date": "09/24",
+        "name_on_card": "Riley",
+        "cvv": "668"
+      }
+    ]
+  },
+  {
+    "username": "Lucky",
+    "password": "FourLe!@af456",
+    "wallet": 100,
+    "address": "225 Main St, Cityville",
+    "phone_number": "225-1234",
+    "email": "lucky@example.com",
+    "credit_cards": [
+      {
+        "card_number": "8702-2235-5521-2257",
+        "expiry_date": "10/24",
+        "name_on_card": "Lucky",
+        "cvv": "225"
+      }
+    ]
+  },
+  {
+    "username": "Shadow",
+    "password": "Steal#$%thyCat789",
+    "wallet": 80,
+    "address": "227 Main St, Cityville",
+    "phone_number": "227-1234",
+    "email": "shadow@example.com",
+    "credit_cards": [
+      {
+        "card_number": "7729-3356-5512-2334",
+        "expiry_date": "11/25",
+        "name_on_card": "Shadow",
+        "cvv": "227"
+      }
+    ]
+  },
+  {
+    "username": "Tucker",
+    "password": "ToughP%#up123",
+    "wallet": 90,
+    "address": "729 Main St, Cityville",
+    "phone_number": "729-1234",
+    "email": "tucker@example.com",
+    "credit_cards": [
+      {
+        "card_number": "7822-2236-6788-3475",
+        "expiry_date": "01/25",
+        "name_on_card": "Tucker",
+        "cvv": "729"
+      }
+    ]
+  }
+]
